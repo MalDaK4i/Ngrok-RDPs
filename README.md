@@ -20,10 +20,6 @@ $ You will get the Ngrok Domain:Port & Username:Password
 LAST STEP:
 $ Find "Remote Desktop Connection (RDP)" From Windows Start Menu.
 $ PUT our Ngrok Domain:Port (Without TCP://) & Username. It's will popup credentials/authorized.
-```
-<p align="center"><img src="https://user-images.githubusercontent.com/25004320/234003488-14abdf67-19f2-43b3-9452-04e6d52f3355.png"/></p>
-
-```
 $ PUT our password & KONEK. Donttttt suyyyyyyyyyyyyyyyyyyy me!
 ``` 
 ## Screenshot:
