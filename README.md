@@ -5,7 +5,7 @@
 ## How To Use?
 ``` 
 FIRST STEP:
-$ Create an account on ngrok.com. (SKIP THIS IF ALREADY OWN)
+$ Create an account on ngrok.com (SKIP THIS IF ALREADY OWN)
 $ Find Your Authoken on NGROKs dashboard and copy it to your clipboard.
 
 SECOND STEP:
