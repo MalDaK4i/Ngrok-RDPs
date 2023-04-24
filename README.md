@@ -12,7 +12,7 @@ SECOND STEP:
 $ Click on "Fork" to create a copy of the "Ngrok-RDPs" repository in your own GitHub account.
 $ Click on "Settings" => "Secrets" => "New repository secret".
 $ In the "Name" field, type "NGROK_AUTH_TOKEN".
-$ Paste the authtoken from NGROKs dashboard into the "Value" field on GitHub, and then click "Add Secret". (FIRST STEP)
+$ Paste the authtoken from NGROKs dashboard (FIRST STEP) into the "Value" field on GitHub, and then click "Add Secret".
 $ Go to "Actions" => "AWS" => "Run Workflow".
 $ Reload the page & go to "AWS" => "Build"
 $ You will get the Ngrok Domain:Port & Username:Password
